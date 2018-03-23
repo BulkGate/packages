@@ -1,0 +1,4 @@
+<?php
+
+define("BULKGATE_APPLICATION_ID", -1);
+define("BULKGATE_APPLICATION_TOKEN", '-');
